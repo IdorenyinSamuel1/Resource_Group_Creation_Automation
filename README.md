@@ -46,3 +46,5 @@ Skills demonstrated
 - Environment separation and resource naming conventions
 - Azure resource tagging
 - Error handling and execution summaries
+
+  
